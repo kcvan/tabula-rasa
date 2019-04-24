@@ -17,6 +17,6 @@ Run `npm i`
 Run `npm start`
 
 
-A browser window should pop up, if not, please navigate to `http://localhost:3000/`
+A browser window should pop up.  If not, please navigate to `http://localhost:3000/`
 
 
